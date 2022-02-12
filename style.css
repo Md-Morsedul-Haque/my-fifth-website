@@ -33,7 +33,7 @@
 .sp-btn{
     background-color: #21B573;
     width: 104px;
-    padding: 8px 28px;
+    padding: 8px 20px;
     border-radius: 20px;
     border: none;
 }
@@ -45,7 +45,7 @@
 .sp-m-button{
     background-color: #21B573;
     width: 153px;
-    padding: 12px 36px;
+    padding: 9px 30px;
     border-radius: 33px;
     border: none;
     color: white;
@@ -112,7 +112,7 @@
 .card-button{
     background-color: #21B573;
     width: 160px;
-    padding: 9px 36px;
+    padding: 9px 30px;
     border-radius: 33px;
     border: none;
     color: white;
