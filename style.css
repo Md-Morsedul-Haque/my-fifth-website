@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+.container{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container-wrapper{
+    background-color: #F0FFF0;
+}
+.navbar-brand img{
+    width: 200px;
+    height: 59px;
+}
+.padding h5{
+    color: #FB602D;
+    
+}
+.padding span{
+    color: black;
+    font-weight:bolder;
+    font-size: 48px;
+}
+.padding label{
+    color: #21B573;
+    font-weight:bolder;
+    font-size: 48px;
+}
+.padding p{
+    color: #888A87;
+    font-size: 16px;
+    line-height: 36px;
+    font-weight: 400;
+}
+.sp-btn{
+    background-color: #21B573;
+    width: 104px;
+    padding: 8px 28px;
+    border-radius: 20px;
+    border: none;
+}
+.nav-item .nav-link{
+    margin: 0px 10px;
+    color: #303430;
+    font-weight: bold;
+}
+.sp-m-button{
+    background-color: #21B573;
+    width: 153px;
+    padding: 12px 36px;
+    border-radius: 33px;
+    border: none;
+    color: white;
+    margin-bottom: 50px;
+}
+.Illustration{
+    width: 125%;
+    margin-left: -130px;
+}
+.padding{
+    padding: 10px 30px;
+}
+
+.card-type{
+    width: 270px;
+    height: 270px;
+    margin-right: 20px;
+    text-align: center;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-type img{
+    width: 66px;
+    height: 85px;
+}
+.mr-none{
+    margin-right: 0px;
+}
+.card-type h4{
+    font-size: 24px !important;
+    font-weight: 500;
+    line-height: 36px;
+}
+.card-type h4{
+    font-size: 18px;
+    color: gray;
+}
+.card-shadow{
+    box-shadow: 1px 1px 10px gray;
+}
+.Online{
+    margin: 75px 0px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+}
+.card-footer img{
+    width: 30px;
+    height: 30px;
+    margin-top: -10px;
+}
+.card-footer{
+    display: flex;
+    align-items: center;
+    border: none;
+    background-color: white;
+}
+.card{
+    border: none;
+    background-color: #FFFFFF;
+}
+.card-button{
+    background-color: #21B573;
+    width: 160px;
+    padding: 9px 36px;
+    border-radius: 33px;
+    border: none;
+    color: white;
+    margin-bottom: 50px;
+}
+.card-body.card-title{
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 36px;
+}
+.card-body p{
+    color: #959596;
+}
+.Testimonial{
+    position: relative;
+    margin-bottom: 70px;
+}
+#blog img{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-left: -629px;
+    margin-top: -9px;
+}
+.Testimonial p{
+    padding-left: 290px;
+    padding-right: 189px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+#other h5{
+    font-size: 16px;
+    line-height: 25px;
+}
+footer{
+    text-align: center;
+    font-size: 16px;
+    padding-bottom: 30px;
+}
+.container-wrap{
+    background-color: #282531;
+    color: #b1adc5;
+}
+.fixed-padding{
+    padding: 50px 0px;
+}
+.container-wrap .h5{
+    color: #FFFFFF;
+}
